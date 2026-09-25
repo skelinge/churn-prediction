@@ -1,4 +1,4 @@
-### 2. Telco Customer Churn Prediction ⭐
+###  Telco Customer Churn Prediction ⭐
 **[GitHub](https://github.com/skelinge/churn-prediction)** | LightGBM, Optuna, SHAP
 
 Предсказание оттока клиентов телекоммуникационной компании (7K записей, дисбаланс 27%, реальные данные IBM).
