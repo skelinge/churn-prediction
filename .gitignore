@@ -1,0 +1,19 @@
+# Data & Models
+data/*.csv
+models/*.pkl
+models/*.joblib
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
